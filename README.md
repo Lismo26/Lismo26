@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my personal interests
 - 📫 How to reach me: lisbethmoralesch1226@gmail.com
 - 😄: Lis
+
+
+![Lismo26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lismo26&theme=dark&show_icons=true)
