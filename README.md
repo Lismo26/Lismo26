@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/lisbeth-morales-choquehuanca-97ab70213/">Lisbeth Morales</a> :smiley:
+ # <a href="https://www.linkedin.com/in/lisbeth-morales-choquehuanca-97ab70213/">Lisbeth Morales</a> 
  
  <a href="https://twitter.com/Lisbeth17830864">
   <img align="left" alt="Lisbeth Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,16 +19,16 @@
 <br/>
 <br/>
 
- PUCP | Works at Entel | Project Development | R | Python | Stata | Eviews 
+ PUCP | Works at Entel | Project Development | Power BI | Python | Stata | SQL
 
-## About :sunglasses:
+## About 
 Last year Economics student at PUCP. Currently working at Entel. Passionate about finance, business development and operation. Also, have some experience in Business Development and social projects.
 
-## Communities :dancers:
+## Communities 
 - Contributer at [Research Student](https://economica.pe/) 
 - Project leader at [Crea+](https://creamas.org/)
 
-## Technologies :fire:
+## Technologies
 - Data Analysis with **Python**.
 - Python 
 - Eviews
@@ -63,7 +63,6 @@ Last year Economics student at PUCP. Currently working at Entel. Passionate abou
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
